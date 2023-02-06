@@ -7,7 +7,7 @@
 # 🌝Education: Bachelor of Pharmacy, Prime College Palakkad
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FXyqAngSRH08AAAAC%2Fdrag-medicine.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fdrag-medicine-capsule-gif-15830587&tbnid=1iEHmWpadjLM0M&vet=1&docid=m5ZCugbuzYQTRM&w=498&h=498&hl=en-GB&source=sh%2Fx%2Fim" />
 
 
 ## Objective: To obtain a challenging position as a Pharmacist in a reputed healthcare organization where I can utilize my skills, knowledge and experience to provide high-quality pharmaceutical care to patients.
