@@ -19,15 +19,3 @@
 # connect with me🙂
 
 
-<a href="https://instagram.com/shiyasudheenshiya">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/instagram-226024.png" alt="Instagram" width="40" height="40">
-</a>
-<a href="https://whatsapp.com/+91 79071 77909">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-2-1175100.png" alt="WhatsApp" width="40" height="40">
-</a>
-<a href="mailto:shiyas087@gmail.com">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/gmail-469564.png" alt="Gmail" width="40" height="40">
-</a>
-<a href="https://facebook.com/shiyasudheenshiya">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/facebook-social-media-2-1175497.png" alt="Facebook" width="40" height="40">
-</a>
