@@ -7,7 +7,8 @@
 # 🌝Education: Bachelor of Pharmacy, Prime College Palakkad
 
 
-![👨‍⚕️](https://giphy.com/gifs/mental-illness-happy-pills-antidepressants-KdQoyCJ7opB6NZnfCN.gif)
+
+[ gif ](https://github.com/Thajudecodes/shiyasudheen.github.io/blob/ab0cafb153d66761496f632f4609c05a009373b8/drag-medicine.gif)
 
 ## Objective: To obtain a challenging position as a Pharmacist in a reputed healthcare organization where I can utilize my skills, knowledge and experience to provide high-quality pharmaceutical care to patients.
  
