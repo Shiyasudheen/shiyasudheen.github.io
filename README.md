@@ -7,7 +7,7 @@
 # 🌝Education: Bachelor of Pharmacy, Prime College Palakkad
 
 
-![👨‍⚕️](https://giphy.com/gifs/mental-illness-happy-pills-antidepressants-KdQoyCJ7opB6NZnfCN)
+![👨‍⚕️](https://giphy.com/gifs/mental-illness-happy-pills-antidepressants-KdQoyCJ7opB6NZnfCN.gif)
 
 ## Objective: To obtain a challenging position as a Pharmacist in a reputed healthcare organization where I can utilize my skills, knowledge and experience to provide high-quality pharmaceutical care to patients.
  
