@@ -22,4 +22,28 @@
 <a href="https://instagram.com/shiyasudheenshiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiyasudheenshiya" height="30" width="40" /></a>
 </p>
 
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .whatsapp-logo {
+        height: 50px;
+        width: 50px;
+        background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1024px-WhatsApp.svg.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        float: left;
+      }
+      .username {
+        font-size: 20px;
+        font-weight: bold;
+        margin-left: 10px;
+        float: left;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="whatsapp-logo"></div>
+    <div class="https://wa.me/+917907177909">WhatsApp User</div>
+  </body>
+</html>
