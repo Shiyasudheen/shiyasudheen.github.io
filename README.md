@@ -6,7 +6,7 @@
 
 # 🌝Education: Bachelor of Pharmacy, Prime College Palakkad
 
-![Anime of Pharmacist Taking Medicine](https://images.app.goo.gl/6Tk7kQuSssDQbifi7)
+![Anime of Pharmacist Taking Medicine](https://images.app.goo.gl/6Tk7kQuSssDQbifi7.gif)
 
 
 
