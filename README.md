@@ -15,8 +15,7 @@
  
  # "As an ambivert, I possess a unique balance of introverted and extroverted qualities, allowing me to adapt to various social situations with ease. I am comfortable in both solitude and the company of others, finding joy in introspection and meaningful connections. I am a listener and a communicator, a observer and a participant, always striving to find the perfect harmony between my inner and outer world."
 
-# 📫 How to reach me 
-# [GMAIL]( **Shiyas087@gmail.com** )
+# 📫 How to reach me **Shiyas087@gmail.com** 
 # [WhatsApp](https://wa.me/+917907177909)
 # [instagram](https://instagram.com/shiyasudheenshiya)
 # [Facebook](https://instagram.com/shiyasudheenshiya)
